@@ -1,8 +1,8 @@
 # leap-club-assignment
 
-#Run
-npm install
-npx react-native run-android
+# Run
+*npm install
+*npx react-native run-android
 
-#Apk
-in src folder
+# Apk
+*in src folder
