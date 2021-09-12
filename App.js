@@ -5,8 +5,8 @@ import Game from './src/game';
 
 export default function App() {
   return (
- 
-    <Game></Game>
+
+    <Game />
   );
 }
 
