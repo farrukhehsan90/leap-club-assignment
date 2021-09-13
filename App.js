@@ -1,13 +1,11 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import Game from './src/components/game';
-import CheckjsonText from './src/components/CheckJsonText';
+import Urls from './src/config/Urls';
 
 export default function App() {
   return (
-    // <Game />
-    <CheckjsonText />
+    <Urls />
   );
 }
 
