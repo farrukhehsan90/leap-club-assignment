@@ -1,8 +1,8 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import Game from './src/component/game';
-import CheckjsonText from './src/component/CheckJsonText';
+import Game from './src/components/game';
+import CheckjsonText from './src/components/CheckJsonText';
 
 export default function App() {
   return (
